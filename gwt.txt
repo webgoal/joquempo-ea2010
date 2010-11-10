@@ -1,0 +1,11 @@
+-- GWT --
+
+O que é
+	Google Web Toolkit
+	Widgets prontos
+	Conversão de Java->Javascript automática
+	
+Objetivo
+	Acelerar o desenvolvimento de aplicações Web interativas - Ajax
+	Javascript gerado é crossbrowser e otimizado para o navegador
+	
